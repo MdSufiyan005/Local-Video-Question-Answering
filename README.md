@@ -4,6 +4,8 @@
 
 It runs entirely on an NVIDIA Jetson Orin using llama.cpp, a vision-language model, vector search, SQLite, and Gradio. No cloud API is required after the models are downloaded.
 
+![VidSeek output showing an answer and supporting video frames](assets/output.png)
+
 ## About the project
 
 VidSeek processes a video in two stages:
